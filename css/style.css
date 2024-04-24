@@ -136,6 +136,9 @@ button{
     cursor: pointer;
     background-color: var(--color-Varden);
 }
+.main_sns{
+    display:hidden
+}
 /* main about */
 .main_about_content{
     background-color: var(--color-Varden);
