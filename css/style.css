@@ -136,14 +136,13 @@ button{
     cursor: pointer;
     background-color: var(--color-Varden);
 }
-.main_sns{
-    display:none;
-}
 /* main about */
 .main_about_content{
     background-color: var(--color-Varden);
 }
-
+.main_sns{
+    display: none;
+}
 /* main about */
 .about_intro{
     /* border: 1px solid blue; */
